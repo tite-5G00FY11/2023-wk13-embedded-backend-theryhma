@@ -8,14 +8,14 @@ CREATE TABLE IF NOT EXISTS `weather` (
 ) ENGINE = InnoDB DEFAULT CHARSET = latin1;
 
 INSERT INTO `weather` (`device_id`, `data`)
-VALUES ("device_JOO", 
+VALUES ("TheRyhma_speed", 
 '{
   "S_name1": "GROUPNAME",
   "S_value1": "VALUE"
 }');
 
 INSERT INTO `weather` (`device_id`, `data`)
-VALUES ("device_JOO", 
+VALUES ("TheRyhma_dir", 
 '{
   "S_name1": "GROUPNAME2",
   "S_value1": "VALUE2"

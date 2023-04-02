@@ -6,6 +6,6 @@ POST http://localhost:5000/api/weather
 Content-Type: application/json
 
 {
-    "S_name2": "SIGNAL_1_NAME",
-    "S_value2": "SIGNAL_1_VALUE" 
+    "S_name1": "TheRyhma_speed",
+    "S_value1": "SIGNAL_1_VALUE" 
 }
